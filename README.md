@@ -1,6 +1,6 @@
 # Color Schemes
 
-Collection of some color schemes for, merged for quick use.
+Collection of some color schemes for vim, merged for quick use.
 
 ## Installation
 
