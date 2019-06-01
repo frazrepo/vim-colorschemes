@@ -1,6 +1,6 @@
 # Color Schemes
 
-Collection of some color schemes for, merged for quick use.
+Collection of some color schemes for vim.
 
 ## Installation
 
@@ -21,3 +21,7 @@ Use your favorite package-manager to install, and enjoy!
  - pencil
  - seoul256-light
  - seoul256
+
+##  Ressources
+
+ - Fork of [ColorsSchemes](https://github.com/flazz/vim-colorschemes)
