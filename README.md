@@ -15,6 +15,7 @@ Use your favorite package-manager to install, and enjoy!
  - ayu
  - codedark
  - dracula
+ - gruvbox8
  - materialbox
  - monokai
  - nord
